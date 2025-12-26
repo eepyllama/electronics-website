@@ -8,12 +8,12 @@ export const businessInfo = {
   tagline: "Laptop Sales, Rental & Repair Services in Gurugram",
   rating: 4.3,
   totalReviews: 3,
-  phone: "091250 16481",
+  phone: "+91-9711526707",
   address: "79, Huda Market Rd, Sector 4, Gurugram, Haryana 122006",
   locationCode: "F2F5+PQ Gurugram, Haryana",
   workingHours: "Open · Closes at 7 PM",
   email: "info@vaishnocomputer.com",
-  mapEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3507.8!2d77.0593!3d28.4738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjjCsDI4JzI1LjciTiA3N8KwMDMnMzMuNSJF!5e0!3m2!1sen!2sin!4v1234567890"
+  mapEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3508.2574586872516!2d77.00684507549618!3d28.474269275764253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d177d9db7ee6f%3A0x8f48667253a9fb36!2sVaishno%20Computer%20System!5e0!3m2!1sen!2sin!4v1640000000000!5m2!1sen!2sin"
 };
 
 export const services = [
